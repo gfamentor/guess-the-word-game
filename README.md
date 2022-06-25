@@ -69,7 +69,7 @@ Variables store information that we want to reference and manipulate in our code
 string name = "Freddy Fox";
 Console.WriteLine(name);
 ```
-When making a variable, you need to include **3** pieces of information: the type (here it is `string`), the alias (in the example above it's `name`) and the value you want to assign to it ("Freddy Fox" in our case). If you don't want to specifically say what the type is, you can use `var` and C# will figure it out for you.
+When making a variable, you need to include **3** pieces of information: the type (here it is `string`), the alias (in the example above it's `name`) and the value you want to assign to it (`"Freddy Fox"` in our case). If you don't want to specifically say what the type is, you can use `var` and C# will figure it out for you.
 
 You should see `Freddy Fox` in your terminal after running this code. If you want to change the name later, you only need to change the first line since the second line refers to the variable and not a hardcoded string.
 
@@ -102,6 +102,7 @@ You can also use the `+` operator to combine multiple strings and variables into
 int age = 27;
 string name = "Lucie";
 Console.WriteLine("My name is " + name + " and I am " + age + " years old.");
+// The output should look like "My name is Lucie and I am 27 years old."
 ```
 
 ##### Comparison Operators
