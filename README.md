@@ -9,6 +9,7 @@ Welcome to today's workshop where you will learn how to create your own word gue
    - [Advanced version](#advanced-version)
 3. [Setup](#setup)
 4. [Programming Concepts](#programming-concepts)
+5. [Contact Info](#contact-info)
 
 ### Application Design
 You get to decide how to structure and write your own application, but here are some ideas on what pieces of information to keep track of:
@@ -178,3 +179,6 @@ else
 ```
 
 Since we assigned the output of the method to a variable, we were able to refer to the value in our if statement. If we change the values of numberA and numberB, the rest of the code will still run correctly. Try it out in VS Code, and if you have any questions please ask a mentor.
+
+### Contact Info
+If you want any help or hints to complete the workshop, please email me at [gfamentor@seznam.cz](mailto:gfamentor@seznam.cz) and I'll get back to you as quickly as I can. :)
