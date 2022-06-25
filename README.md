@@ -1,4 +1,4 @@
-# GFA Open Day - Evening Workshop
+# GFA Open Day - Third Workshop
 
 ## Console App - Guess The Word
 Welcome to today's workshop where you will learn how to create your own word guessing game that you can play in a terminal! We will use C# and Visual Studio Code to complete the activity.
