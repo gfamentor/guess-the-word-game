@@ -63,6 +63,8 @@ string input = Console.ReadLine();
 
 You will learn more about variables in the next section.
 
+Tip: If you want to play with someone else, you can use `Console.Clear()` to clear the terminal so the other player won't be able to see the word you entered.
+
 #### Variables
 Variables store information that we want to reference and manipulate in our code. They allow us to save important information in 1 place that we can refer to in other parts of our code, so that we don't have to type the same information over and over. Here's an example:
 ```csharp
