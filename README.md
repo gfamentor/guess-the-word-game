@@ -5,8 +5,8 @@ Welcome to today's workshop where you will learn how to create your own word gue
 
 ## Table of Contents
 1. [Application Design](#application-design)
-  i. [Basic version](#basic-version)
-  ii. [Advanced version](#advanced-version)
+   - [Basic version](#basic-version)
+   - [Advanced version](#advanced-version)
 3. [Setup](#setup)
 4. [Programming Concepts](#programming-concepts)
 
