@@ -37,9 +37,9 @@ string UpdateWordDisplay(string word, string guess, string wordDisplay)
 {
     for (int i = 0; i < word.Length; i++)
     {
-        if (guess.Contains(word[i]))
+        if (guess == word[i].ToString())
         {
-            wordDisplay = wordDisplay.Remove(i * 2, 1).Insert(i * 2, guess.ToString());
+            wordDisplay = wordDisplay.Remove(i * 2, 1).Insert(i * 2, guess);
         }
     }
     return wordDisplay;
