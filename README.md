@@ -157,7 +157,7 @@ bool IsLessThan(int a, int b)
 }
 ```
 
-The top line is called the **method signature**, and it contains 3 parts: the return type, the name, and the input parameters. This method returns a boolean value, but methods can return many different types, including `string`, `int`, or even `void` if you want to return nothing. The name is "IsLessThan," and in order for your code to run you need to give it 2 integer numbers to work with. Since this method doesn't return `void`, we will want to assign the output to a variable to use later in our code. Look at this example below:
+The top line is called the **method signature**, and it contains 3 parts: the return type, the name, and the input parameters. This method returns a boolean value, but methods can return many different types, including `string`, `int`, or even `void` if you want to return nothing. The name is "IsLessThan," and in order for your code to run you need to give it 2 integer numbers to work with. The code between the curly brackets `{}` is called the **implementation**, which is the code the method executes. Since this method doesn't return `void`, we will want to assign the output to a variable to use later in our code. Look at this example below:
 
 ```csharp
 int numberA = 100;
